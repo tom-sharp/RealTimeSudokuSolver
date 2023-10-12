@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.34114.132
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTimeSudokuSolver", "RealTimeSudokuSolver\RealTimeSudokuSolver.csproj", "{72BC3710-4D23-4C2E-915C-814C32CB0BB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RealTimeSudokuSolver", "RealTimeSudokuSolver\RealTimeSudokuSolver.csproj", "{72BC3710-4D23-4C2E-915C-814C32CB0BB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SudokuSolver", "SudokuSolver\SudokuSolver.csproj", "{7FF202BD-F8C7-4EE1-9ECC-C68166A96639}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SudokuSolver", "SudokuSolver\SudokuSolver.csproj", "{7FF202BD-F8C7-4EE1-9ECC-C68166A96639}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{7FE7CF67-1E31-4666-A373-C81F217C7D24}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
